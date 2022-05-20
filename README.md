@@ -12,9 +12,7 @@ Hello, I'm Candra, a mobile app developer. Currently I am a graduate from majori
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Project Apps
 
-<a href="https://www.twitter.com/candrabi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/candrabi?logo=twitter&style=for-the-badge&color=0891b2&labelColor=181824"
-/></a><a href="https://www.github.com/candrabisa" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/candrabisa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/candrabisa?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
 ### Skills
@@ -27,7 +25,6 @@ src="https://img.shields.io/github/followers/candrabisa?logo=github&style=for-th
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
