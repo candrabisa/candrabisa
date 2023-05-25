@@ -1,4 +1,4 @@
-Hi 👋 My name is Candra Billy Sagita
+Hi 👋 
 ====================================
 
 Mobile Apps Developer
