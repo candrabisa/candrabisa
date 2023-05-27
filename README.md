@@ -1,8 +1,8 @@
 Hi 👋 
 ====================================
-
+<!-- 
 Mobile Apps Developer
----------------------
+--------------------- -->
 
 Hello, I'm Candra, a mobile app developer. Currently I am a graduate from majoring in informatics engineering. I have some work experience in IT Programming about 3 years, especially making mobile applications. I write code and improve skills everyday.
 
@@ -15,7 +15,7 @@ Hello, I'm Candra, a mobile app developer. Currently I am a graduate from majori
 <a href="https://www.github.com/candrabisa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/candrabisa?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
-### Skills
+<!-- ### Skills
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
@@ -26,7 +26,7 @@ src="https://img.shields.io/github/followers/candrabisa?logo=github&style=for-th
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+</p> -->
 
 
 ### Badges
