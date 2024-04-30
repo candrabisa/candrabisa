@@ -12,8 +12,8 @@ Hello, I'm Candra, a mobile app developer. Currently I am a graduate from majori
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on Project Apps
 
-<a href="https://www.github.com/candrabisa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/candrabisa?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
+<!-- <a href="https://www.github.com/candrabisa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/candrabisa?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a> -->
 
 <!-- ### Skills
 
