@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/candrabisa?logo=github&style=for-th
 </p> -->
 
 
-### Badges
+<!-- ### Badges -->
 
 <b>My GitHub Stats</b>
 
